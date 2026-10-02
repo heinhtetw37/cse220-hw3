@@ -1,0 +1,19 @@
+# Local editor settings
+.idea/
+.vscode/
+
+# Generated build files
+cmake-build-*/
+build/
+*.o
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.idb
+a.out
+tests_runner
+
+# Operating system files
+.DS_Store
+Thumbs.db
